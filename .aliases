@@ -1,0 +1,20 @@
+# Alias definitions to be used cross shell
+# Shawn Day 2/22/2020
+
+# Use improved vi
+alias vi=vim
+
+# ls output
+alias la='ls -AlhF --color=auto'
+alias lt='ls -Altr --color=auto'
+alias cla='clear;ls -AlhF --color=auto'
+alias clt='clear;ls -Altr --color=auto'
+
+# cd behavior
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+
+# grep history (gh ls)
+alias gh='history|grep'
