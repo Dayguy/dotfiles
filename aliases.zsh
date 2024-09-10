@@ -1,3 +1,4 @@
+# /home/shawn/.oh-my-zsh/custom/
 # Alias definitions for zsh
 # Shawn Day 2024.08.25
 
